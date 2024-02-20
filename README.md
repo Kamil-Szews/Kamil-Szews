@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm 23 years old graduate of the Poznan University of Technology with an engineering degree. I started programming at the age of 15, when I wrote simple programs that helped me with everyday difficulties. About a year ago, when I started teaching computer science in high school, I realized that I really enjoyed programming. I decided to become a programmer and after 9 months I succeeded. Programming is extremely satisfying for me and I am looking for new challenges in order to further develop.</p>
+<p align="left">I'm 23 years old graduate of the Poznan University of Technology with an engineering degree. I started programming at the age of 15, when I wrote simple programs that helped me with everyday difficulties. About a two years ago, when I started teaching computer science in high school, I realized that I really enjoyed programming. I decided to become a programmer and after 9 months I succeeded. Programming is extremely satisfying for me and I am looking for new challenges in order to further develop.</p>
 
 ###
 
