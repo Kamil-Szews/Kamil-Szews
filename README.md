@@ -51,6 +51,6 @@
 
 ###
 
-<p align="left">⌛  Chess<br>✈️ Travels<br>🎹 Piano<br>🎸 Guitar<br>🔮 Cryptocurrencies<br>💪 K1</p>
+<p align="left">⌛ Chess<br>✈️ Travels<br>📚 Books about Self-Development<br>📈 Stock Market<br>🔮 Cryptocurrencies<br>🔥 K1<br>💪 Gym<br>🎹 Piano<br>🎸 Guitar</p>
 
 ###
